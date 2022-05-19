@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Navbar />
-      <div id="mainContent" className='min-h-screen px-6'>
+      <div id="mainContent" className='min-h-screen px-6 py-2'>
         <ToDoList />
       </div>
       <Footer />
